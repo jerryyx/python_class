@@ -7,3 +7,4 @@ class Game:
         self.tk = Tk()
         self.tk.title("Mr.Stick Man Races for the Exit")
         self.tk.resizable(0, 0)
+yaoxiang
