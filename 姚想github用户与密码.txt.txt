@@ -17,7 +17,8 @@ user : jerryyx
    祝姚想 完全和 git 快乐相处，高效安全的管理好自己文件
 
     Regards
-    Yao
+    Yao  Gang
+
   
 
 
