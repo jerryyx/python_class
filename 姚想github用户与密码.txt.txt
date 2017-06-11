@@ -5,7 +5,7 @@ Hi, Jerry
 user : jerryyx
 
  本地的目录建在这里 E:\git\python_class\Jerrygame.py
- 每次修改完代码，请右键 小乌龟 做两个动作 
+ 每次修改完代码，请右键 小乌龟 做两个动作。 
 
    1.  commit
    2.  push 会有提示，需要输入上面的用户密码 
