@@ -9,7 +9,7 @@ user : jerryyx
 
    1.  commit
    2.  push 会有提示，需要输入上面的用户密码 
-   3. 上传的代码也可以用浏览器阅读，粘贴下列网址：  https://github.com/jerryyx/python_class/blob/master/Jerrygame.py
+   3. 上传的代码也可以用浏览器阅读，粘贴下列网址： https://github.com/jerryyx
    4. 同样道理 E:\git 也可以建立其他文件，通过 commit- push两步上传。 管理备份其他文件。 
 
   有问题， 请想google 或 dad 求助
